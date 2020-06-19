@@ -21,7 +21,7 @@
 #define OK 0x00000000
 
 char target[1024];
-char version[]="0.0.0a2 2019y334d";
+char version[]="0.0.1";
 char help[]="INTERACTIVE help document:"n
 "    This file is the sourse code of the INTERACTIVE project."n
 "    The argument values(argv) stands for:"n
